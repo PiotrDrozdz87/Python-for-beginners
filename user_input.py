@@ -1,2 +1,4 @@
-word = input("Enter something: ")
+word = input("Enter something funny: ")
+print(word)
+
 
